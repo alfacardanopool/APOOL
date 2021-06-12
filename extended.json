@@ -28,23 +28,4 @@
         "0": "",
         "1": ""
     },
-    "adapools_ext": {
-        "prometheus": {
-            "0": {
-                "name": "relay 1 eu",
-                "type": "relay",
-                "key": ""
-            },
-            "1": {
-                "name": "relay 2 eu",
-                "type": "relay",
-                "key": ""
-            },
-            "2": {
-                "name": "block producer home",
-                "type": "bp",
-                "key": ""
-            }
-        }
-    }
 }
