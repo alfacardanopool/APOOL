@@ -2,5 +2,6 @@
 "name": "Alfa Pool",
 "description": "Alfa Cardano Pool. Baremetal with backup. Come with us to earn great rewards while supporting decentralization for a better ecosystem.",
 "ticker": "ALFA",
-"homepage": "alfacardanopool.github.io"
+"homepage": "alfacardanopool.github.io",
+"extended": "https://raw.githubusercontent.com/alfacardanopool/APOOL/main/extended.json"
 }
