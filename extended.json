@@ -9,11 +9,11 @@
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
-            "discord_handle": "https://discord.gg/afeyYp8Vd4",
+            "discord_handle": "afeyYp8Vd4",
             "github_handle": "alfacardanopool"
         },
         "company": {
-            "name": "₳lfa Cardano Pool • https://linktr.ee/alfapool"
+            "name": "₳lfa Cardano Pool • <a href="https://linktr.ee/alfapool" target="_blank">Useful Links</a>"
         },
         "about": {
             "server": "Baremetal core with baremetal backup located in Greece plus many cloud relays",
